@@ -10,6 +10,3 @@ we want to try
 File updated on github directly.
 * more actions from remote repo
 * one more action
-
-Updated from the branch
-* branch update
